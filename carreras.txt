@@ -1,3 +1,5 @@
 carreras:
 MCD - 4to Semestre - Desarrollo de proyecto 2
+Fisica
+Sistemas
 de caracoles
